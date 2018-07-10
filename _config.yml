@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: bookmatch blog
+title: Bookmatch Blog
 email: support@bookmatch.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Bookmatch Blog is for authors to learn how to use and interpret results given by bookmatch's
@@ -29,6 +29,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+assets:
+  sources:
+    - _assets/fonts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
