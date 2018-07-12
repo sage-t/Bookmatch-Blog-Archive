@@ -20,7 +20,7 @@ suggestions, please tweet or email us using the links at the bottom of the page.
 
 To add an image for you avatar picture, login to [Gravatar][gravatar]. From there, you can drag
 and drop the image you'd like to use. Gravatar is used by many other websites as well so don't
-be suprised if you already have an avatar.
+be surprised if you already have an avatar.
 
 
 #### Navigation
@@ -30,7 +30,7 @@ The sidebar on the left is the main way to navigate Bookmatch. _Home_ is the fir
 contains some navigation buttons and basic information about your account. _Books_ is where you can upload
 your novels and manuscripts. Once uploaded, they'll show up here. _Book Shelves_ is where you can 
 group books together to compare. We'll get more into that later. _Plot_, _Language_, _Theme_,
-_Characters_, and _Misc_ are where you can view all of the different analytics that Bookmatch 
+_Characters_, and _Misc_ are where you can view all the different analytics that Bookmatch 
 creates.
 
 ![Nav Buttons]({{ "assets/img/top_navigation.png" | absolute_url }})
@@ -72,12 +72,12 @@ _Upload Book or Manuscript_ button at the top right. Enter the title of the book
 Drag and drop the file that you want analyzed into the field. This may take a while as we verify
 that the file is formatted in a way that we will be able to analyze. After that, the _Next_ button 
 will light up. Click it, accept our terms of service, and Bookmatch will automatically start to
-analyze your novel or manuscript. This proccess typically takes about two minutes. Once finished, 
+analyze your novel or manuscript. This process typically takes about two minutes. Once finished, 
 you can add it to a bookshelf and view your results!
 
 
 I hope this post was helpful. We'll update it as things change and add more posts about how
-to best use the analyzer results. In the mean time, let us know what you think!
+to best use the analyzer results. In the meantime, let us know what you think!
 
 
 [bm_homepage]: https://bookmatch.com
