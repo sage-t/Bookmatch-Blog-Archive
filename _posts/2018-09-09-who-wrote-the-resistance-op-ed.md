@@ -94,6 +94,14 @@ I hope you enjoyed reading this blog post! We hopefully got closer to the truth,
 exercise to test Bookmatch in the real world. If you have any questions or comments feel free to 
 email me at [sage@bookmatch.com][sage_email] or tweet [@_bookmatch][bm_twitter].
 
+### Update
+
+After further investigation, we found evidence that none of our candidates are the anonymous
+writer. Plotting the probability distribution of the algorithm's top choices shows that our 
+algorithm is signifigantly less confident about the anonymous author than would be expected. The
+hunt continues, but at least we were able to eliminate some of the options.
+
+![Probability Distribution](/assets/img/probability_distribution.png)
 
 [bm_homepage]: https://bookmatch.com
 [nyt_resistance]: https://www.nytimes.com/2018/09/05/opinion/trump-white-house-anonymous-resistance.html
