@@ -8,7 +8,7 @@ categories: analysis
 
 A few days ago the New York Times published an [op-ed][nyt_resistance] by a person 
 identified only as a "senior official in the Trump administration." This person claims to be part of
-a group of senior officials who "working diligently from within to frustrate parts of 
+a group of senior officials who are "working diligently from within to frustrate parts of 
 [President Trump's] agenda". The [Washington Post][wp_who]
 and others have attempted to uncover the anonomous writer, but suggestions remain speculative. Was
 it Mike Pence? Nikki Haley? Mike Pompeo? Nobody knows, so we at Bookmatch decided to give it try. 
