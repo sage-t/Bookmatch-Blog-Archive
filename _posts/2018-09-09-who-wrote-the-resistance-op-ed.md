@@ -74,21 +74,27 @@ randomly guessing. 86% of the time the author is in one of the top three choices
 
 #### Most Likely
 
-* Alex Azar
-* Mick Mulvaney
-* Robert Lighthizer
+* Alex Azar (27% likely)
+* Mick Mulvaney  (26% likely)
+* Robert Lighthizer  (13% likely)
 
 #### Least Likely
 
-* Mike Pence
-* Nikki Haley
-* Linda McMahon
+* Mike Pence (2% likely)
+* Nikki Haley (4% likely)
+* Linda McMahon (8% likely)
 
 Of the top three, Robert Lighthizer seems to write the most about topics mentioned in the anonymous
 op-ed. He wrote highly about [Senator McCain][robert_article_1] and warns about 
 [Republicans' changing views on free trade][robert_article_2]. However, we did not want to include 
 words that covered these topics to remain as unbiased as possible considering how little 
 data there is.
+
+What we can say with strong certainty, is that Mike Pence did not write the op-ed. He is
+one of the primary subjects according to many news platforms because of his past use of the word 
+"lodestar". However, his writing style is very different. For example, the hyphen pattern
+`<phrase> - <phrase> - <phrase>` is used twice in the op-ed. Mike Pence never uses this pattern in our
+comparison articles.
 
 I hope you enjoyed reading this blog post! We hopefully got closer to the truth, and this was a fun
 exercise to test Bookmatch in the real world. If you have any questions or comments feel free to 
