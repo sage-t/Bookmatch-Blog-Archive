@@ -98,8 +98,8 @@ email me at [sage@bookmatch.com][sage_email] or tweet [@_bookmatch][bm_twitter].
 
 After further investigation, we found evidence that none of our candidates are the anonymous
 writer. Plotting the probability distribution of the algorithm's top choices shows that our 
-algorithm is signifigantly less confident about the anonymous author than would be expected. The
-hunt continues, but at least we were able to eliminate some of the options.
+algorithm is signifigantly less confident about the anonymous author's identity than would be 
+expected. The hunt continues, but at least we were able to eliminate some of the options.
 
 ![Probability Distribution](/assets/img/probability_distribution.png)
 
